@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40719299-0f4a-401a-9481-d905d98417c1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/downloads/tmp.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/AutoUpdateClient.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deleted.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work.php" afterPath="$PROJECT_DIR$/work.php" />
     </list>
     <ignored path="newDummy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +37,10 @@
       <file leaf-file-name="work.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/work.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27062228">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.18813314">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
               <folding>
-                <marker date="1467986142875" expanded="true" signature="122:171" placeholder="select * fro..versions..." />
+                <marker date="1467986140651" expanded="true" signature="174:223" placeholder="select * fro..versions..." />
               </folding>
             </state>
           </provider>
@@ -241,7 +238,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1467986142875" expanded="true" signature="122:171" placeholder="select * fro..versions..." />
+            <marker date="1467986140651" expanded="true" signature="174:223" placeholder="select * fro..versions..." />
           </folding>
         </state>
       </provider>
@@ -307,10 +304,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/work.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27062228">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.18813314">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
           <folding>
-            <marker date="1467986142875" expanded="true" signature="122:171" placeholder="select * fro..versions..." />
+            <marker date="1467986140651" expanded="true" signature="174:223" placeholder="select * fro..versions..." />
           </folding>
         </state>
       </provider>
